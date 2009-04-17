@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2009.4.2)  16 APR 2009 22:57
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2009.4.2)  16 APR 2009 23:01
 entering extended mode
  %&-line parsing enabled.
 **intro.tex
@@ -93,6 +93,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 13.
 
+Overfull \hbox (115.66219pt too wide) in paragraph at lines 13--13
+ [][] 
+ []
+
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./intro.aux) ) 
@@ -108,7 +112,7 @@ Here is how much of TeX's memory you used:
 /texmf-texlive/fonts/type1/bluesky/cm/cmmi12.pfb></usr/share/texmf-texlive/font
 s/type1/bluesky/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/c
 mr17.pfb>
-Output written on intro.pdf (1 page, 16094 bytes).
+Output written on intro.pdf (1 page, 18426 bytes).
 PDF statistics:
  18 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)

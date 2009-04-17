@@ -1,17 +1,39 @@
 Primer archivo de prueba para GITHUB.com
 
-Monografía sobre
+------Monografía sobre------
 
 	Diseño, desarrollo e implementación de una red de terminales ligeras utilizando tecnologías de software libre en el laboratorio de 
         computación del colegio Guardabarranco en la ciudad de Managua
 
-Integrantes
+------Integrantes------
 
 	Norman García
 	William Bustos
 
-Se supone que se va a desarrollar esta tesis en LaTeX, ojala que se pueda :) y que William aprenda a usarlo.
+------ToDo------
 
-Terminos de licencia seran expuestos mas adelante, se esta pensando en usar Atribución-No Comercial 3.0 Unported de Creative Commons o Free 
-Documentation License
+Se va a empezar con el protocolo del documento que consta de 
+
+   1. Título
+   2. Índice
+   3. Introducción
+   4. Antecedentes
+   5. Justificación
+   6. Objetivos
+   7. Marco Teórico
+   8. Hipótesis y Variables
+   9. Diseño Metodológico
+  10. Cronograma de Ejecución.
+
+Y no debe de exceder 20 páginas
+
+
+------Desarrollo------
+
+Se supone que se va a desarrollar esta tesis en LaTeX, ojala que se pueda :) y que William 
+aprenda a usarlo.
+
+------Licencia------
+
+Terminos de licencia seran expuestos mas adelante, se esta pensando en usar Atribución-No Comercial 3.0 Unported de Creative Commons o Free Documentation License
 

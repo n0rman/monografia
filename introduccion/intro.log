@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2009.4.2)  19 APR 2009 17:30
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2009.4.2)  19 APR 2009 17:38
 entering extended mode
  %&-line parsing enabled.
 **intro.tex
@@ -86,22 +86,24 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ­ in font cmr10!
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./intro.aux) ) 
 Here is how much of TeX's memory you used:
- 1094 strings out of 94101
- 12960 string characters out of 1165811
+ 1096 strings out of 94101
+ 12976 string characters out of 1165811
  66542 words of memory out of 1500000
- 4424 multiletter control sequences out of 10000+50000
+ 4426 multiletter control sequences out of 10000+50000
  4545 words of font info for 17 fonts, out of 1200000 for 2000
  637 hyphenation exceptions out of 8191
  25i,4n,25p,182b,186s stack positions out of 5000i,500n,6000p,200000b,5000s
 </usr/share
 /texmf-texlive/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf-texlive/font
 s/type1/bluesky/cm/cmr10.pfb>
-Output written on intro.pdf (1 page, 9531 bytes).
+Output written on intro.pdf (1 page, 13109 bytes).
 PDF statistics:
  14 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)

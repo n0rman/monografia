@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2009.4.2)  19 APR 2009 22:08
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2009.4.2)  19 APR 2009 22:54
 entering extended mode
  %&-line parsing enabled.
 **intro.tex
@@ -94,58 +94,26 @@ Missing character: There is no Ã in font cmr12!
 Missing character: There is no ± in font cmr12!
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ­ in font cmr12!
-Missing character: There is no Ã in font cmsl12!
-Missing character: There is no ± in font cmsl12!
-Missing character: There is no Ã in font cmsl12!
-Missing character: There is no ³ in font cmsl12!
-Missing character: There is no Ã in font cmsl12!
-Missing character: There is no ­ in font cmsl12!
-Missing character: There is no Ã in font cmsl12!
-Missing character: There is no ³ in font cmsl12!
-
-Overfull \hbox (732.4384pt too wide) has occurred while \output is active
-\OT1/cmr/m/sl/12 Diseo, desarrollo e implementacin de Linux Terminal Server Pro
-ject (Red de Terminales Ligeras) utilizando Tecnologa de Software Libre en el l
-aboratorio de Computacin del Colegio Guardabarranco en la ciudad de Managua \OT
-1/cmr/m/n/12 1
- []
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ³ in font cmr12!
-Missing character: There is no Ã in font cmsl12!
-Missing character: There is no ± in font cmsl12!
-Missing character: There is no Ã in font cmsl12!
-Missing character: There is no ³ in font cmsl12!
-Missing character: There is no Ã in font cmsl12!
-Missing character: There is no ­ in font cmsl12!
-Missing character: There is no Ã in font cmsl12!
-Missing character: There is no ³ in font cmsl12!
-
-Overfull \hbox (732.4384pt too wide) has occurred while \output is active
-\OT1/cmr/m/sl/12 Diseo, desarrollo e implementacin de Linux Terminal Server Pro
-ject (Red de Terminales Ligeras) utilizando Tecnologa de Software Libre en el l
-aboratorio de Computacin del Colegio Guardabarranco en la ciudad de Managua \OT
-1/cmr/m/n/12 2
- []
-
-[2] (./intro.aux) ) 
+ [2] (./intro.aux) ) 
 Here is how much of TeX's memory you used:
- 1127 strings out of 94101
- 13226 string characters out of 1165811
+ 1102 strings out of 94101
+ 13026 string characters out of 1165811
  69546 words of memory out of 1500000
- 4455 multiletter control sequences out of 10000+50000
+ 4430 multiletter control sequences out of 10000+50000
  4896 words of font info for 18 fonts, out of 1200000 for 2000
  637 hyphenation exceptions out of 8191
- 25i,5n,25p,198b,242s stack positions out of 5000i,500n,6000p,200000b,5000s
-</usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmbx12.pfb>
-</usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr12.pfb></usr/share/texmf-te
-xlive/fonts/type1/bluesky/cm/cmsl12.pfb>
-Output written on intro.pdf (2 pages, 28353 bytes).
+ 25i,5n,25p,198b,186s stack positions out of 5000i,500n,6000p,200000b,5000s
+</usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmbx12.pfb
+></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr12.pfb>
+Output written on intro.pdf (2 pages, 19118 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
+ 17 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

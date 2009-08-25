@@ -1,26 +1,30 @@
-% Se empieza a desarrollar trabajo monografico en partes, se esta migrando de Writer a LaTex
 \documentclass[12pt]{report}
-\oddsidemargin 0.98in
-\topmargin 0.98in
+
+\oddsidemargin 2.5cm
+%\topmargin 0in
+%\headheight 8pt
 \usepackage[spanish]{babel}
 \usepackage{graphicx}
 \usepackage{fancyhdr}
 \pagestyle{fancy}
-\headheight 40pt
+\usepackage{anysize} %Paquete que permite usar marginsize
+\marginsize{2.5cm}{2.5cm}{2.5cm}{2.5cm} %izq, der, sup, inf 
 \lhead{}
 %\includegraphics[width=0.5in]{Escudo.png}
 \rhead{}
-\chead{\tiny{Diseno, desarrollo e implementacion de Linux Terminal
+\chead{\tiny{Dise\~no, desarrollo e implementaci\'on de Linux Terminal
 Server
 Project Red
-de Terminales Ligeras utilizando Tecnologia de Software Libre en el
+de Terminales Ligeras utilizando Tecnolog\'ia de Software Libre en el
 laboratorio
-de Computacion del Colegio Guardabarranco en la ciudad de Managua}}
+de Computaci\'on del Colegio Guardabarranco en la ciudad de Managua}}
 \rfoot{\thepage}
 \cfoot{}
-\lfoot{William Bustos, Norman Garcia, Freddy Avellan}
+\lfoot{William Bustos, Norman Garc\'ia, Freddy Avellan}
 \renewcommand{\footrulewidth}{0.9pt}
 \renewcommand{\headrulewidth}{0.9pt}
 \begin{document}
 	\input{01dedag/01dedag}
+	\newpage
+	\input{03intro/03intro}
 \end{document}

@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2009.8.18)  24 AUG 2009 21:32
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2009.8.18)  24 AUG 2009 22:25
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -83,40 +83,68 @@ File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
 \f@ncyO@erf=\skip49
 \f@ncyO@olf=\skip50
 \f@ncyO@orf=\skip51
+)
+(/usr/share/texmf-texlive/tex/latex/anysize/anysize.sty
+Package: anysize 1994/08/13 setting margin sizes
+
+document style option `anysize' loaded
+Michael Salzenberg, Thomas Esser, Dirk Hillbrecht
+Version 1.0, Aug 13, 1994
+\@Leftmargin=\dimen106
+\@Rightmargin=\dimen107
+\@Topmargin=\dimen108
+\@Bottommargin=\dimen109
 ) (./monografia.aux)
 \openout1 = `monografia.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+ (./01dedag/01dedag.tex
 
-(./01dedag/01dedag.tex [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.2667pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-])
-[2] (./monografia.aux) ) 
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+]) [2]
+(./03intro/03intro.tex
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ­ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ± in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ± in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ­ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ³ in font cmr12!
+ [3] [4] (./monografia.aux) ) ) 
 Here is how much of TeX's memory you used:
- 1229 strings out of 94101
- 14415 string characters out of 1165810
- 70215 words of memory out of 1500000
- 4549 multiletter control sequences out of 10000+50000
+ 1251 strings out of 94101
+ 14785 string characters out of 1165810
+ 72531 words of memory out of 1500000
+ 4563 multiletter control sequences out of 10000+50000
  4845 words of font info for 18 fonts, out of 1200000 for 2000
  637 hyphenation exceptions out of 8191
- 26i,10n,43p,238b,236s stack positions out of 5000i,500n,6000p,200000b,5000s
-</usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmbx12
-.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr12.pfb></usr/share/tex
-mf-texlive/fonts/type1/bluesky/cm/cmr6.pfb>
-Output written on monografia.pdf (2 pages, 25884 bytes).
+ 26i,10n,43p,238b,240s stack positions out of 5000i,500n,6000p,200000b,5000s
+</usr/share/texmf-texlive/fonts/type1/bluesky/cm
+/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr12.pfb></usr/sh
+are/texmf-texlive/fonts/type1/bluesky/cm/cmr6.pfb>
+Output written on monografia.pdf (4 pages, 34330 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
+ 27 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
